@@ -1,1 +1,1 @@
-https://polongdev.github.io/shoti.io/
+https://polongdev.github.io/shoti/
