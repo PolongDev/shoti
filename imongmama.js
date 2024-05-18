@@ -1,6 +1,6 @@
  async function generateVideo() {
     const apiUrl = "https://shoti-srv1.onrender.com/api/v1/get";
-    const apiKey = "$shoti-1ho3b41uiohngdbrgk8";
+    const apiKey = "$shoti-1hu4s2aqh4jcov78cvo";
 
     try {
       const loadingOverlay = document.getElementById("loading-overlay");
